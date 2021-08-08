@@ -25,6 +25,7 @@ EXPECTED CHANGE: In order to create an element inside a document inside a collec
 For now use this one to play with to understand how it works.
 
 **TROUBLESHOOTING**
+
 1) Make sure that the internal clock of your computer works correctly. Otherwise it will throw you a permission error.
 
 2) Run the server first and after the client.
